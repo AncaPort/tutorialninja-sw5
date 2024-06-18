@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="38.638">
+  <properties />
+  
+  
+            <testcase name="verifyProductAddedToShoppingCartSuccessFully" time="13.166" classname="com.tutorialsninja.demo.testsuite.DesktopsTest" />
+                <testcase name="verifyProductAddedToShoppingCartSuccessFully" time="12.333" classname="com.tutorialsninja.demo.testsuite.DesktopsTest" />
+                <testcase name="verifyProductAddedToShoppingCartSuccessFully" time="13.139" classname="com.tutorialsninja.demo.testsuite.DesktopsTest" />
+      
+</testsuite>
